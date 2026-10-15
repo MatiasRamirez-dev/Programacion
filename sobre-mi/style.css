@@ -18,7 +18,9 @@ body {
     }
 
         .destacada {
-            background-color: #0b8a06;
+            font-family:'Arial', 'Arial Narrow', Arial, sans-serif;
+            color:#d11010;
+            background-color: #ffffff;
             font-weight: bold;
         }
     
