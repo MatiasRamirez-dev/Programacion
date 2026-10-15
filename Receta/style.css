@@ -18,9 +18,11 @@ table {
 th,td {
     border:1px solid #000000;
     padding: 8px 12px;
+}
 
     .destacada {
         background-color: #ebeaea;
         font-weight: bold;
-    }   
-}
+        
+    }
+
