@@ -30,8 +30,10 @@ td {
 h2 {
     color: #000000;
     background-color: #ffbe0a;
-    padding: 30px;
-    margin: 30px 10px;
-    border-left: 6px solid #000000;
+    padding: 7px;
+    margin: 4px 214px;
+    border-left: 6px solid #9f8017;
+    border-right: 6px solid #9f8017;
     border-radius: 12px;
+    text-align: center;
 }
