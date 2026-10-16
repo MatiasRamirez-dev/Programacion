@@ -36,5 +36,10 @@ h2 {
     text-decoration: none;
     font-weight: bold;
     padding: 8px 12px;
+    background-color: #ffbe0a;
+    padding: 7px;
+    margin: 20px 212px;
+    border-left: 6px solid #9f8017;
+    border-right: 6px solid #9f8017;
     border-radius: 4px;
 }
