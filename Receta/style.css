@@ -28,9 +28,10 @@ td {
 }
 
 h2 {
-    color: #2973af;
+    color: #000000;
     background-color: #ffbe0a;
     padding: 30px;
     margin: 30px 10px;
     border-left: 6px solid #000000;
+    border-radius: 12px;
 }
