@@ -1,28 +1,32 @@
 body {
-    font-family:'Arial', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Arial', 'Arial Narrow', Arial, sans-serif;
     background-color: #ffffff;
     color: #2973af;
     max-width: 700px;
-    margin:0 auto;
+    margin: 0 auto;
     padding: 20px;
 }
 
-    .foto {
-      
-        border-radius: 12px;
-        border: 3px solid #2973af;
-    }
+.foto {
 
-    h2 {
-        color: #2973af;
-    }
+    border-radius: 12px;
+    border: 3px solid #2973af;
+}
 
-        .destacada {
-            font-family:'Arial', 'Arial Narrow', Arial, sans-serif;
-            color:#d11010;
-            background-color: #ffffff;
-            font-weight: bold;
-        }
-    
+h2 {
+    color: #2973af;
+}
 
+.destacada {
+    font-family: 'Arial', 'Arial Narrow', Arial, sans-serif;
+    color: #d11010;
+    background-color: #ffffff;
+    font-weight: bold;
+}
 
+h2 {
+    background-color: #ffbe0a;
+    padding: 10px;
+    margin: 30px 0;
+    border-left: 6 px solid #000000;
+}
