@@ -26,3 +26,9 @@ th,td {
         
     }
 
+h2 {
+    background-color: #ffbe0a;
+    padding: 10px;
+    margin: 30px 0;
+    border-left: 6 px solid #000000;
+}
