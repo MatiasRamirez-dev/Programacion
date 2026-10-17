@@ -33,11 +33,10 @@ h2 {
 }
 
 .menu a {
- color: #2973af;
+    color: #2973af;
     text-decoration: none;
     font-weight: bold;
     padding: 8px 12px;
-    background-color: #ffffff;
     border: 6px solid #2973af;
     border-radius: 12px;
 }
